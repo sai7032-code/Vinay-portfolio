@@ -17,7 +17,7 @@ export default function App() {
       <section data-aos="fade-down" className="bg-gradient-to-br from-[#0f2027] via-[#203a43] to-[#2c5364] text-white py-20 px-6 text-center">
         <img src={profileImg} alt="Vinay A S" className="w-32 h-32 mx-auto mb-4 rounded-full border-4 border-white shadow-xl" />
         <h1 className="text-5xl font-extrabold mb-2 tracking-wide">Vinay A S</h1>
-        <p className="text-xl font-medium">AWS Data Engineer | Python | Big Data | ETL | Linux | Cloud Automation</p>
+        <p className="text-xl font-medium">AWS Data Engineer | AWS Devops Engineer | Devops | CI|CD | Linux | Cloud Automation</p>
         <div className="mt-6 flex flex-wrap justify-center gap-4">
           {[
             "summary",
