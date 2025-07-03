@@ -74,8 +74,8 @@ export default function App() {
           <li><strong>ETL Tools:</strong> AWS Glue, Apache Airflow</li>
           <li><strong>Big Data:</strong> Hadoop, Spark, EMR</li>
           <li><strong>Databases:</strong> Redshift, MySQL, PostgreSQL, DynamoDB</li>
-          <li><strong>DevOps Tools:</strong> Git, Jenkins, CloudFormation, Terraform (Basic)</li>
-          <li><strong>Visualization:</strong> Amazon QuickSight, Tableau (Basic)</li>
+          <li><strong>DevOps Tools:</strong> Git, Jenkins, CloudFormation, Terraform </li>
+          <li><strong>Visualization:</strong> Amazon QuickSight, Tableau </li>
           <li><strong>OS:</strong> Linux (RedHat, Ubuntu), Windows</li>
         </ul>
       </section>
