@@ -161,8 +161,8 @@ export default function App() {
         <p>📞 +91 6361987834</p>
         <p>📍 Bengaluru, India</p>
         <div className="flex justify-center gap-6 mt-6">
-          <a href="https://github.com/vinaas27" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-300 transition"><FaGithub size={30} /></a>
-          <a href="https://linkedin.com/in/vinay-a-s-721310211" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-300 transition"><FaLinkedin size={30} /></a>
+          <a href="https://github.com/vinaas27/" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-300 transition"><FaGithub size={30} /></a>
+          <a href="https://linkedin.com/in/vinay-a-s-721310211/" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-300 transition"><FaLinkedin size={30} /></a>
           <a href="mailto:vinayas27ei@gmail.com" className="hover:text-yellow-300 transition"><MdEmail size={30} /></a>
           <a href="tel:6361987834" className="hover:text-yellow-300 transition"><MdPhone size={30} /></a>
         </div>
