@@ -105,9 +105,10 @@ export default function App() {
         </div>
       </section>
 
-      {/* Projects */}
+           {/* Projects */}
       <section id="projects" data-aos="zoom-in" className="p-8 max-w-5xl mx-auto bg-gradient-to-tr from-pink-50 via-white to-rose-100 rounded-xl shadow">
         <h2 className="text-3xl font-bold mb-6 text-pink-700 border-b-4 border-pink-400 pb-2">🚀 Projects</h2>
+
         <div className="mb-6">
           <h3 className="text-xl font-semibold text-gray-900">Data Lake Implementation</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -116,14 +117,25 @@ export default function App() {
             <li>Lifecycle policies for optimization</li>
           </ul>
         </div>
-        <div>
+
+        <div className="mb-6">
           <h3 className="text-xl font-semibold text-gray-900">Real-Time Data Processing</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700">
             <li>Kinesis, Lambda, Redshift</li>
             <li>Log streaming and dashboards</li>
           </ul>
         </div>
+
+        <div>
+          <h3 className="text-xl font-semibold text-gray-900">NotesApp – CI/CD Deployment</h3>
+          <ul className="list-disc pl-6 space-y-2 text-gray-700">
+            <li>Automated Jenkins pipeline for build/deploy</li>
+            <li>Built Docker image and pushed to DockerHub</li>
+            <li>Deployed to Kubernetes cluster on AWS</li>
+          </ul>
+        </div>
       </section>
+
 
       {/* Strengths */}
       <section id="strengths" data-aos="fade-up" className="p-8 max-w-5xl mx-auto bg-gradient-to-tr from-green-100 to-white rounded-xl shadow">
